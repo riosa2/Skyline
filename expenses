@@ -17,4 +17,4 @@ Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Sa
 3,Saturday,26,Kukje,Food,Credit,Need
 4,Sunday,230,Credit Card Payment,Bills,Debit,Need
 5,Monday,1130,Rent,Housing,Debit,Need
-5.Monday,500,Investings,Savings,Debit,Savings
+5,Monday,500,Investings,Savings,Debit,Savings
